@@ -1,0 +1,4 @@
+E T F
++ - * / ( ) id
+F->id F->(E) T->F T->T/F T->T*F E->T E->E-T E->E+T
+E

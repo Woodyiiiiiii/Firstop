@@ -1,0 +1,4 @@
+E T F
++ - id
+F->id T->F- E->T+
+E
